@@ -1,0 +1,8 @@
+export {default as CarrierTFP} from "./Carrier"
+export {default as PasserTFP} from "./Passer"
+export {default as KickerTFP} from "./Kicker"
+export {default as PlayTypeTFP} from "./PlayType"
+export {default as ReceiverTFP} from "./Receiver"
+export {default as ResultTFP} from "./Result"
+export {default as ForceTurnOverTFP} from "./ForceTurnOver"
+export {default as TFP} from "./Index"
